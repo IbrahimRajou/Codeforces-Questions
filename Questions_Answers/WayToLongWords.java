@@ -11,10 +11,10 @@ public class WayToLongWords {
 
       Example:
       Input:                                            Output:
-      3                                                 word
-      word                                              s11n
-      specification                                     p43s
-      pneumonoultramicroscopicsilicovolcanoconiosis
+      3 -> testCases                                             
+      word                                              word
+      specification                                     s11n 
+      pneumonoultramicroscopicsilicovolcanoconiosis     p43s
     */
 
     int testCases = input.nextInt();
