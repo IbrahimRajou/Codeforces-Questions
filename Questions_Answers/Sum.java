@@ -39,9 +39,10 @@ public class Sum {
       k++;
     }
 
-    for (int i = 0; i < results.length; i++) {
-      System.out.println(results[i]);
+    for (String i : results){
+      System.out.println(i);
     }
-
+    
+    input.close();
   }
 }
